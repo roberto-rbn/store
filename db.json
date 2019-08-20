@@ -7,7 +7,8 @@
     "bairro": "centro",
     "cidade": "itu",
     "estado": "SP"    
-    }
+    },
+     "imgURL": "https://i.pinimg.com/originals/af/c2/dd/afc2dd3a0e17702b4f4e4a6e69f9c8fd.jpg"
     },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
