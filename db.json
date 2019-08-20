@@ -1,7 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1",
-    "imgURL": "https://i.pinimg.com/originals/af/c2/dd/afc2dd3a0e17702b4f4e4a6e69f9c8fd.jpg", 
+    { "id": 1, "title": "Post 1", "img": "https://i.pinimg.com/originals/af/c2/dd/afc2dd3a0e17702b4f4e4a6e69f9c8fd.jpg", 
     "address": {
     "rua": "sao joao",
     "numero": 50,
